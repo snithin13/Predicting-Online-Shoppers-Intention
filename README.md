@@ -6,27 +6,39 @@ Through this project, we intend to **Identify important online customer behavior
 
 ![alt text](https://github.com/snithin13/Predicting-Online-Shoppers-Intention/blob/master/Images/columbia.jpg)
 
+Additional information on the [Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset) can be found [here](https://github.com/snithin13/Predicting-Online-Shoppers-Intention/blob/master/Dataset_Additional_Info).
+
 ## Contributors:
 
-* 
-* 
-* 
-* 
-* 
+* George Chen 
+* Nithin Saseendran
+* Sichun Zuo
+* Yunwei Yan
+* Zhuo Wen
 
-## Dataset:
+## Approach:
 
-
-## Visualizations:
-
+*
+*
 
 ## Classification Models:
 
 1. Logistic Regression:
 
+AUC-ROC -> 81%
+
 2. Random Forest
 
+AUC-ROC ->
+
 3. XGBoost:
+
+AUC-ROC -> 88%
+
+## Inferences:
+
+*
+*
 
 ## Recommendation:
 
