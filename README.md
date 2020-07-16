@@ -18,7 +18,7 @@ Additional information on the [Dataset](https://archive.ics.uci.edu/ml/datasets/
 
 ## Approach:
 
-*
+* 
 *
 
 ## Classification Models:
@@ -29,7 +29,7 @@ AUC-ROC -> 81%
 
 2. Random Forest
 
-AUC-ROC ->
+AUC-ROC -> 85%
 
 3. XGBoost:
 
@@ -37,8 +37,8 @@ AUC-ROC -> 88%
 
 ## Inferences:
 
-*
-*
+* Proportion of buying customers higher in first time users than in returning users
+* Customers spending higher time on website not buying
 
 ## Recommendation:
 
